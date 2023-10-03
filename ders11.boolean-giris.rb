@@ -1,3 +1,5 @@
+#Path: ders11.boolean-giris.rb
+
 puts 2 < 5 # true
 puts 2 > 5 # false
 puts 2 == 5 # false

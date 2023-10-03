@@ -1,3 +1,5 @@
+#Path: ders4-degiskenler-veriables.rb
+
 isim = "Özkan"
 soyisim = "Özdemir"
 yas = 30

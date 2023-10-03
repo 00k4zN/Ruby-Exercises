@@ -1,3 +1,5 @@
+#Path: ders14-assignment-operator.rb
+
 a = 15
 b = a + 10
 puts b  

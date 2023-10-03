@@ -1,3 +1,5 @@
+#Path: ders7-string-interpolation.rb
+
 isim = "Özkan"
 
 puts "Hoş geldin #{isim}, bugün nasılsın?"

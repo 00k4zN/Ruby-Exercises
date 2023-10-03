@@ -1,3 +1,5 @@
+#Path: ders19-random-number-round-method.rb
+
 puts rand.round(2) # rasgele sayıyı 2 basamaklı yuvarlar
 
 puts rand(10) # 0 ile 10 arasında rasgele sayı üretir

@@ -1,3 +1,5 @@
+#Path: ders12-equal-noteqal-operators.rb
+
 puts 5 == 5 # true
 puts 5 == 4 # false
 puts 5 != 4 # true

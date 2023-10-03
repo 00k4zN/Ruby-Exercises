@@ -1,3 +1,5 @@
+#Path: ders10-kullanicidan-input-alma.rb
+
 puts "Merhaba, adın nedir"
 isim = gets.chomp # gets metodu kullanıcıdan veri alır. gets.chomp metodu ise kullanıcıdan veri alırken sonuna bir satır atlamasını engeller.
 puts "Merhaba #{isim}, kaç yaşındasın?" # gets metodu ile alınan veri string veri tipindedir.

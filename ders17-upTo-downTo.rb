@@ -1,3 +1,5 @@
+#Path: ders17-upTo-downTo.rb
+
 10.downto(1) { |i| puts "Geri sayım başladı - #{i}"} # 10'dan 1'e kadar geri sayım yapar.
 puts "Geri sayım bitti!" # 10'dan 1'e kadar geri sayım yaptıktan sonra ekrana "Geri sayım bitti!" yazdırır. 
 

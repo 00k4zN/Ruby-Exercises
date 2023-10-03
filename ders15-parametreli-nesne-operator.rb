@@ -1,3 +1,5 @@
+#Path: ders15-parametreli-nesne-operator.rb
+
 puts "Özkan".length
 
 # between?(min, max) methodu

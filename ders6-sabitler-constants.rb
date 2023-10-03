@@ -1,3 +1,5 @@
+#Path: ders6-sabitler-constants.rb
+
 yas = 28
 puts yas
 

@@ -1,3 +1,5 @@
+#Path: ders3-comments-begin-end.rb
+
 # işareti ile başlayan satırlar yorum satırıdır.
 
 # puts "selam arkadaşlar"

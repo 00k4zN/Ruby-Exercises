@@ -1,3 +1,5 @@
+#Path: ders16-ruby-bloklar-giris-times-method.rb
+
 # Times methodu bir blok alır ve bu bloğu belirtilen sayı kadar çalıştırır.
 
 # 5.times do puts "Merhaba" end ifade bloğu 5 kere çalıştırılır.

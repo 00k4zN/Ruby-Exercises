@@ -6,6 +6,8 @@ puts "merhaba".reverse # ters çevir
 puts "merhaba".swapcase # büyük harfleri küçük, küçük harfleri büyük yap
 puts "merhaba".center(20) # 20 karakterlik alanın ortasına yerleştir
 puts "merhaba".center(20, "-") # 20 karakterlik alanın ortasına yerleştir, boşluk yerine - koy
+#Path ders8-nesne-metodlar%C4%B1-class-metodu.rb
+
 puts "merhaba".ljust(20) # 20 karakterlik alanın soluna yerleştir
 puts "merhaba".rjust(20) # 20 karakterlik alanın sağına yerleştir
 puts "merhaba".ljust(20, "-") # 20 karakterlik alanın soluna yerleştir, boşluk yerine - koy
